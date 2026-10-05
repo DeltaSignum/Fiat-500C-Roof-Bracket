@@ -9,7 +9,7 @@ Common Fiat 500C (2009-present) failure - original plastic brackets crumble afte
 - Designed from broken originals 2025-02-07
 
 ### What to print
-- `STL/bracket_inner.stl` - 1x per side (print 2 for both sides)
+- `STL/bracket_inner.stl` - L/R mirrored in slicer
 - `STL/bracket_outer.stl` - L/R mirrored in slicer
 
 For inter-lock reuses original Fiat metal rod.
