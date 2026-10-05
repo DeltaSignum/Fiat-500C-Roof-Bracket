@@ -33,6 +33,8 @@ My setup for ABS without enclosure:
 3. Slide inner bracket part into outer bracket part
 4. Clip outer and inner brackets together - it locks on the metal bar slided in, no glue
 
+![Brackets - Inner, Outer](relpaced.jpg)
+
 More functional 3D prints and acoustic projects: https://deltasignum.org
 Original acoustic project: DeltaSignum/Dynamic-Zero
 
