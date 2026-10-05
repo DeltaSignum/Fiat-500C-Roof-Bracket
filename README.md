@@ -21,7 +21,7 @@ For inter-lock reuses original Fiat metal rod.
 My setup for ABS without enclosure:
 - Full-height skirt as draft shield - creates hot air curtain
 - G-code modifier:
-    - Layers 1-3: fan 0%
+    - Fan 0% for layers 1-3 for better adhesion
     - Outer walls: fan 70%
     - Inner walls: fan 0%, flow 105% over-extrusion
     - Hot air recirculation - blower that collects hot air from nozzle and pushes back
