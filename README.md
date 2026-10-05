@@ -1,6 +1,6 @@
 # Fiat 500C Roof Bracket - No Disassembly Fix
 
-![Brackets - Inner, Outer](../slicer.jpg)
+![Brackets - Inner, Outer](slicer.jpg)
 
 Common Fiat 500C (2009-present) failure - original plastic brackets crumble after sun exposure. Dealer fix = remove entire roof, 500-800€.
 
